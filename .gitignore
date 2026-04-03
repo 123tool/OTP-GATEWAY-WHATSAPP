@@ -1,0 +1,14 @@
+# Firebase Secret Key (Sangat Rahasia)
+serviceAccountKey.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
