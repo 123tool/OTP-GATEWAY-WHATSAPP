@@ -28,7 +28,10 @@ pip install firebase-admin requests
 ```bash
 python spy_fire_otp.py
 ```
-
+###  Auto-Setup
+```bash
+pip install -r requirements.txt && python spy_fire_otp.py
+```
 ### 🚀 Cara Penggunaan
 
 **​Pastikan file serviceAccountKey.json sudah ada di folder.
